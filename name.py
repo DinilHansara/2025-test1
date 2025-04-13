@@ -1,2 +1,2 @@
 print("Hello to GitHub.")
-print("This is a new greeting")
+print("Using git with VS CODE is awesome")

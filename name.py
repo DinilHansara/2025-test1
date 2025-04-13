@@ -1,2 +1,2 @@
 print("Hello to GitHub.")
-print("A new line added")
+print("This is a new greeting")
